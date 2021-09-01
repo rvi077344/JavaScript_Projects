@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(237, 248, 218);
+}
+
+.myInput{
+    font-size: 2em;
+    border: 1px solid #ddd;
+    text-align: center;
+    letter-spacing: 0.5em;
+
+}
+.gameArea{
+    margin: auto;
+    text-align: center;
+
+
+}
