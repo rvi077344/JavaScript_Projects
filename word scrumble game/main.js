@@ -6,7 +6,7 @@ const inWord = document.createElement('input');
 inWord.setAttribute('type','text');
 inWord.classList.add('myInput');
 
-output.style.textAlign='center';
+output.style.textAlign='center'; 
 
 btn.textContent = "Shuru Karo Game !";
 output.textContent = 'click the button';

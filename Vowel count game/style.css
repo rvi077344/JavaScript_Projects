@@ -62,7 +62,7 @@ body{
 .box p span.blink{
     box-shadow: 0px 0px 5px rgb(226, 115, 115),
                 0px 0px 10px rgb(226, 115, 115),
-                0px 0px 15px rgb(226, 115, 115),
+                0px 0px 15px rgb(243, 165, 165),
                 0px 0px 20px rgb(226, 115, 115);
 
 }
